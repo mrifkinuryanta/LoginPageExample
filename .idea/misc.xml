@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/PROJECT APK/BinarAcademy/Chapter4/LoginPageExample/app/src/main/res/layout/activity_home.xml" value="0.21435185185185185" />
+        <entry key="..\:/PROJECT APK/BinarAcademy/Chapter4/LoginPageExample/app/src/main/res/layout/activity_login.xml" value="0.21435185185185185" />
         <entry key="..\:/PROJECT APK/BinarAcademy/Chapter4/LoginPageExample/app/src/main/res/layout/activity_main.xml" value="0.24114583333333334" />
         <entry key="..\:/PROJECT APK/BinarAcademy/Chapter4/LoginPageExample/app/src/main/res/layout/activity_splash_screen.xml" value="0.20185185185185187" />
+        <entry key="..\:/PROJECT APK/BinarAcademy/Chapter4/LoginPageExample/app/src/main/res/menu/menu_homepage.xml" value="0.21435185185185185" />
       </map>
     </option>
   </component>
